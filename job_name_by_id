@@ -1,0 +1,1 @@
+select * from msdb.dbo.sysjobs where job_id=0xDA8B449EDBC1154880C56093C459D415
